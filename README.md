@@ -1,1 +1,1 @@
-Data sets for use in STA 309
+Data sets for use in STA 309. 
